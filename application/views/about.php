@@ -19,10 +19,10 @@
                                 ketika saya beranjak dewasa saya sudah mulai bosan dengan buah, apalagi saya kuliah merantau di Universitas brawijaya malang, tidak ada yang menyediakan buah buahan, lalu saya menjadi sering sakit sakitan dan mudah lelah.
                             </p>
                             <p>
-                                selain itu saya amati memang jarang masyarakat yang menyukai buah, dan sedikit yang mengerti tentang manfaat buah.
+                                selain itu saya amati memang jarang masyarakat yang menyukai buah dan sedikit yang mengerti tentang manfaat buah.
                             </p>
                             <p>
-                                dan karena bantuan dari program Microsoft Student Partner saya merealisasikan keinginan saya menjadikan masyarakat indonesia lebih sehat melalui hosting yang diberikan di Microsoft Azure.
+                                dan karena bantuan dari program Microsoft Student Partner dan dengan hosting di Microsoft Azure, saya merealisasikan keinginan saya menjadikan masyarakat indonesia lebih sehat.
                             </p>
                         </h2>
                         </div>
