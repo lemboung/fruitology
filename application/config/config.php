@@ -23,7 +23,7 @@
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'http://fruitology.azurewebsites.com/site/wwwroot/';
+$config['base_url'] = 'http://fruitology.azurewebsites.com';
 
 
 /*
