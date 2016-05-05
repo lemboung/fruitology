@@ -48,9 +48,9 @@
 $active_group = 'default';
 $active_record = TRUE;
 
-$db['default']['hostname'] = 'localhost';
-$db['default']['username'] = 'root';
-$db['default']['password'] = '';
+$db['default']['hostname'] = 'ap-cdbr-azure-southeast-b.cloudapp.net';
+$db['default']['username'] = 'b8cb04ed35787f';
+$db['default']['password'] = 'c2b12d08';
 $db['default']['database'] = 'fruitology';
 $db['default']['dbdriver'] = 'mysql';
 $db['default']['dbprefix'] = '';
