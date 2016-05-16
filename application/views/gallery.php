@@ -18,7 +18,7 @@
                                                 <div class="post-hover text-center">
                                                     <div class="inside">
                                                         <i class="fa fa-plus"></i>
-                                                        <center><img src="<?php echo base_url()."assets/" ?>image/logogaleri.png" style="width:55px;  margin-top:-20px"></center>
+                                                        <center><img src="<?php echo base_url()."assets/" ?>image/logo.png" style="width:55px;  margin-top:-20px"></center>
                                                         <h4><a data-toggle="modal" data-target="#myModal<?php echo $d["id_gallery"]; ?>"><?php echo $d["nama_pict"]; ?></a></h4>
                                                         <p><?php echo $d["deskripsi"]; ?></p>
                                                     </div>

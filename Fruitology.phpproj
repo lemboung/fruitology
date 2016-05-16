@@ -182,11 +182,8 @@
     <Compile Include="assets\image\item1.png" />
     <Compile Include="assets\image\item2.png" />
     <Compile Include="assets\image\item3.png" />
-    <Compile Include="assets\image\kaki2b.png" />
     <Compile Include="assets\image\kaki3.png" />
     <Compile Include="assets\image\kaki4.png" />
-    <Compile Include="assets\image\kaki4b.png" />
-    <Compile Include="assets\image\kakib.png" />
     <Compile Include="assets\image\keluarga-sehat.jpg" />
     <Compile Include="assets\image\kotak1.jpg" />
     <Compile Include="assets\image\kotak4.jpg" />
@@ -195,7 +192,6 @@
     <Compile Include="assets\image\loc.png" />
     <Compile Include="assets\image\logo.png" />
     <Compile Include="assets\image\logo1.png" />
-    <Compile Include="assets\image\logob.png" />
     <Compile Include="assets\image\logogaleri.png" />
     <Compile Include="assets\image\masker-cantik.jpg" />
     <Compile Include="assets\image\menu-left.png" />
